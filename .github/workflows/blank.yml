@@ -45,7 +45,7 @@ jobs:
         wget https://magisk-modules-repo.github.io/submission/modules.json
         sed -i 's#https://github.com/#https://gh-codeload.qqcn.xyz/#g' ./modules.json
         sed -i 's#/archive/#/zip/' ./modules.json
-        sed -i 'd#.zip#' ./modules.json
+        sed -i '#.zip#d' ./modules.json
         
         
 
