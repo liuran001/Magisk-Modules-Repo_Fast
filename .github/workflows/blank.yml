@@ -53,12 +53,12 @@ jobs:
 
     - name: Upload
       env: 
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
       run: |
         cd $GITHUB_WORKSPACE/main
         git add .
         git commit -m "update$(TZ='Asia/Shanghai' date +@%Y%m%d)"
-        git push --quiet "https://${{ secrets.GITHUB_TOKEN }}@github.com/liuran001/Magisk-Modules-Repo_Fast.git" HEAD:main
+        git push --quiet "https://${{ secrets.TOKEN }}@github.com/liuran001/Magisk-Modules-Repo_Fast.git" HEAD:main
  
 
  
