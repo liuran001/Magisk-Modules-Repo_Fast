@@ -43,7 +43,10 @@ jobs:
         cd main
         [ -e modules.json ] && rm modules.json
         wget https://magisk-modules-repo.github.io/submission/modules.json
-        sed -i 's#https://github.com/#https://gh-mirror.qqcn.xyz/#g' ./modules.json
+        sed -i 's#https://github.com/#https://gh-codeload.qqcn.xyz/#g' ./modules.json
+        sed -i 's#/archive/#/zip/' ./modules.json
+        sed -i 's#.zip#' ./modules.json
+        
         
 
     - name: Upload
