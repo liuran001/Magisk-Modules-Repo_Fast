@@ -40,10 +40,9 @@ jobs:
         cd $GITHUB_WORKSPACE
         git clone -b main https://github.com/liuran001/Magisk-Modules-Repo_Fast.git main
         cd main
+        rm modules.json
         wget https://magisk-modules-repo.github.io/submission/modules.json
         sed -i 's#https://github.com/#https://hub.fastgit.org/gh/#g' ./modules.json
-        rm -Rf *
-        git rm --cache *
         
 
     - name: Upload
