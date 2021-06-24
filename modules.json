@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1624402423000,
+  "last_update": 1624492127000,
   "modules": [
+    {
+      "id": "OneController",
+      "last_update": 1624492127000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/module.prop",
+      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/OneController/zip/5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/README.md"
+    },
     {
       "id": "HideNavBar",
       "last_update": 1624402423000,
@@ -255,13 +262,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265/README.md"
     },
     {
-      "id": "OneController",
-      "last_update": 1614164772000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@8d038040fffc48dd863ac4f7a7bd3b5476b357fa/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/OneController/zip/8d038040fffc48dd863ac4f7a7bd3b5476b357fa",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@8d038040fffc48dd863ac4f7a7bd3b5476b357fa/README.md"
-    },
-    {
       "id": "riru_edxposed",
       "last_update": 1613616737000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed@7293bf52ad17b0cdded2bc94027168481bdea55a/module.prop",
@@ -351,6 +351,13 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/module.prop",
       "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/terminalmods/zip/8275b010fabbe769903470876ec175ecbaae9666",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/README.md"
+    },
+    {
+      "id": "acp",
+      "last_update": 1605384655000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@62668db80dc228911d8814d209e0d5606f1fb175/module.prop",
+      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/acp/zip/62668db80dc228911d8814d209e0d5606f1fb175",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@62668db80dc228911d8814d209e0d5606f1fb175/README.md"
     },
     {
       "id": "wirelessFirmware",
