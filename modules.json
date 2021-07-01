@@ -1,20 +1,20 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1625077717000,
+  "last_update": 1625126768000,
   "modules": [
     {
       "id": "Detach",
-      "last_update": 1625077717000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@3e395661227a6e2b3f803b7adb509ce78cd09102/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/Detach/zip/3e395661227a6e2b3f803b7adb509ce78cd09102",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@3e395661227a6e2b3f803b7adb509ce78cd09102/README.md"
+      "last_update": 1625126768000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@890c321a5a6111425ee61a479d789006d565b02f/module.prop",
+      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/Detach/zip/890c321a5a6111425ee61a479d789006d565b02f",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@890c321a5a6111425ee61a479d789006d565b02f/README.md"
     },
     {
       "id": "riru_lsposed",
-      "last_update": 1625020610000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@b0bf70c74831546e4cd67bedfaba2706147e359c/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/riru_lsposed/zip/b0bf70c74831546e4cd67bedfaba2706147e359c",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@b0bf70c74831546e4cd67bedfaba2706147e359c/README.md"
+      "last_update": 1625115896000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@37695b60135525750d9aa169f1cf6ee477edc7b4/module.prop",
+      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/riru_lsposed/zip/37695b60135525750d9aa169f1cf6ee477edc7b4",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@37695b60135525750d9aa169f1cf6ee477edc7b4/README.md"
     },
     {
       "id": "riru_storage_redirect",
