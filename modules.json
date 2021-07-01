@@ -1,7 +1,14 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1625020610000,
+  "last_update": 1625077717000,
   "modules": [
+    {
+      "id": "Detach",
+      "last_update": 1625077717000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@3e395661227a6e2b3f803b7adb509ce78cd09102/module.prop",
+      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/Detach/zip/3e395661227a6e2b3f803b7adb509ce78cd09102",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@3e395661227a6e2b3f803b7adb509ce78cd09102/README.md"
+    },
     {
       "id": "riru_lsposed",
       "last_update": 1625020610000,
@@ -106,13 +113,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@2c87f88441ae829c543c5685591933140aaa5b40/module.prop",
       "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/miui-10-sounds/zip/2c87f88441ae829c543c5685591933140aaa5b40",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@2c87f88441ae829c543c5685591933140aaa5b40/README.md"
-    },
-    {
-      "id": "Detach",
-      "last_update": 1621869078000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@e12a7ff72a1a339b366c6d9db84771c114837ab2/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/Detach/zip/e12a7ff72a1a339b366c6d9db84771c114837ab2",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@e12a7ff72a1a339b366c6d9db84771c114837ab2/README.md"
     },
     {
       "id": "riru_clipboard_whitelist",
