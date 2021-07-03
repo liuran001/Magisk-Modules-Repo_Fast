@@ -1,761 +1,761 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1625223249000,
+  "last_update": 1625285262000,
   "modules": [
+    {
+      "id": "zipsigner",
+      "last_update": 1625285262000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/zipsigner/archive/fa62e2a0f756f8e5b09d85bba9e83def50c3db13.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/README.md"
+    },
     {
       "id": "fontrevival",
       "last_update": 1625223249000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/fontrevival/zip/f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/fontrevival/archive/f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@f1a633c0d9ebfe50a35046a5dbbf7a43cea4fcc2/README.md"
     },
     {
       "id": "Detach",
       "last_update": 1625126768000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@890c321a5a6111425ee61a479d789006d565b02f/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/Detach/zip/890c321a5a6111425ee61a479d789006d565b02f",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/Detach/archive/890c321a5a6111425ee61a479d789006d565b02f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@890c321a5a6111425ee61a479d789006d565b02f/README.md"
     },
     {
       "id": "riru_lsposed",
       "last_update": 1625115896000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@37695b60135525750d9aa169f1cf6ee477edc7b4/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/riru_lsposed/zip/37695b60135525750d9aa169f1cf6ee477edc7b4",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru_lsposed/archive/37695b60135525750d9aa169f1cf6ee477edc7b4.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@37695b60135525750d9aa169f1cf6ee477edc7b4/README.md"
     },
     {
       "id": "riru_storage_redirect",
       "last_update": 1624870912000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@1f5a3d544b10c30bd90957ee819e8d884d88119f/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/riru_storage_redirect/zip/1f5a3d544b10c30bd90957ee819e8d884d88119f",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru_storage_redirect/archive/1f5a3d544b10c30bd90957ee819e8d884d88119f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@1f5a3d544b10c30bd90957ee819e8d884d88119f/README.md"
     },
     {
       "id": "callrecorder-skvalex",
       "last_update": 1624538156000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@406e29db5b26f4154e61a47a98324b70bfbb39ed/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/callrecorder-skvalex/zip/406e29db5b26f4154e61a47a98324b70bfbb39ed",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/callrecorder-skvalex/archive/406e29db5b26f4154e61a47a98324b70bfbb39ed.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@406e29db5b26f4154e61a47a98324b70bfbb39ed/README.md"
     },
     {
       "id": "OneController",
       "last_update": 1624492127000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/OneController/zip/5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/OneController/archive/5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneController@5703dbc85aec07fca3ed4f7f9ec324d7e63fa13e/README.md"
     },
     {
       "id": "HideNavBar",
       "last_update": 1624402423000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@245085982652fa1cadf423820396191eec987351/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/HideNavBar/zip/245085982652fa1cadf423820396191eec987351",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/HideNavBar/archive/245085982652fa1cadf423820396191eec987351.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@245085982652fa1cadf423820396191eec987351/README.md"
     },
     {
       "id": "MagiskHidePropsConf",
       "last_update": 1624335594000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@c69ea7d2dfdc091edf8973de4ec5baca39ce3039/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/MagiskHidePropsConf/zip/c69ea7d2dfdc091edf8973de4ec5baca39ce3039",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/MagiskHidePropsConf/archive/c69ea7d2dfdc091edf8973de4ec5baca39ce3039.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@c69ea7d2dfdc091edf8973de4ec5baca39ce3039/README.md"
     },
     {
       "id": "bromitewebview",
       "last_update": 1623899411000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@60f9dd36fff7b08b1520358f4014fdc32f308d61/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/bromitewebview/zip/60f9dd36fff7b08b1520358f4014fdc32f308d61",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/bromitewebview/archive/60f9dd36fff7b08b1520358f4014fdc32f308d61.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@60f9dd36fff7b08b1520358f4014fdc32f308d61/README.md"
     },
     {
       "id": "nano-ndk",
       "last_update": 1623880450000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/nano-ndk/zip/7cec9fbf04cac7d7fc1de8424e32062d042703cd",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/nano-ndk/archive/7cec9fbf04cac7d7fc1de8424e32062d042703cd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@7cec9fbf04cac7d7fc1de8424e32062d042703cd/README.md"
     },
     {
       "id": "active_edge_system_mod",
       "last_update": 1623486985000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@87a0ace9efee5657c4a3dc60a78f72ef48aa9621/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/active_edge_system_mod/zip/87a0ace9efee5657c4a3dc60a78f72ef48aa9621",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/active_edge_system_mod/archive/87a0ace9efee5657c4a3dc60a78f72ef48aa9621.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@87a0ace9efee5657c4a3dc60a78f72ef48aa9621/README.md"
     },
     {
       "id": "NFCScreenOff",
       "last_update": 1622845852000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@ca5c0bb3adcdee3b642387338d26e7e6e6819fa8/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/NfcScreenOff/zip/ca5c0bb3adcdee3b642387338d26e7e6e6819fa8",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/NfcScreenOff/archive/ca5c0bb3adcdee3b642387338d26e7e6e6819fa8.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@ca5c0bb3adcdee3b642387338d26e7e6e6819fa8/README.md"
-    },
-    {
-      "id": "zipsigner",
-      "last_update": 1622432263000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@8482a8439a8d2a84d01de6a2a43111646d87f352/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/zipsigner/zip/8482a8439a8d2a84d01de6a2a43111646d87f352",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@8482a8439a8d2a84d01de6a2a43111646d87f352/README.md"
     },
     {
       "id": "twrp-keep",
       "last_update": 1622432190000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@ea511193ecb8e32fab835068f9c0b365ee3d2f58/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/twrp-keep/zip/ea511193ecb8e32fab835068f9c0b365ee3d2f58",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/twrp-keep/archive/ea511193ecb8e32fab835068f9c0b365ee3d2f58.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@ea511193ecb8e32fab835068f9c0b365ee3d2f58/README.md"
     },
     {
       "id": "microg_installer",
       "last_update": 1622272244000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@7a2429b84f7de4576183ad41872bf6a44d40ba09/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/microG_installer/zip/7a2429b84f7de4576183ad41872bf6a44d40ba09",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/microG_installer/archive/7a2429b84f7de4576183ad41872bf6a44d40ba09.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@7a2429b84f7de4576183ad41872bf6a44d40ba09/README.md"
     },
     {
       "id": "miui-10-sounds",
       "last_update": 1621965138000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@2c87f88441ae829c543c5685591933140aaa5b40/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/miui-10-sounds/zip/2c87f88441ae829c543c5685591933140aaa5b40",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/miui-10-sounds/archive/2c87f88441ae829c543c5685591933140aaa5b40.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miui-10-sounds@2c87f88441ae829c543c5685591933140aaa5b40/README.md"
     },
     {
       "id": "riru_clipboard_whitelist",
       "last_update": 1621067846000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@7daa866319a9d4e017deaa56f9f7ff2785a31033/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/riru_clipboard_whitelist/zip/7daa866319a9d4e017deaa56f9f7ff2785a31033",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru_clipboard_whitelist/archive/7daa866319a9d4e017deaa56f9f7ff2785a31033.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_clipboard_whitelist@7daa866319a9d4e017deaa56f9f7ff2785a31033/README.md"
     },
     {
       "id": "ainur_jamesdsp",
       "last_update": 1620999798000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@be34159ef7e2275a59bcdee443279d322d8a740e/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/ainur_jamesdsp/zip/be34159ef7e2275a59bcdee443279d322d8a740e",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ainur_jamesdsp/archive/be34159ef7e2275a59bcdee443279d322d8a740e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@be34159ef7e2275a59bcdee443279d322d8a740e/README.md"
     },
     {
       "id": "energizedprotection",
       "last_update": 1620902194000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@ffccf253f07902c0f8cd92143b3c81b5debd7af5/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/energizedprotection/zip/ffccf253f07902c0f8cd92143b3c81b5debd7af5",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/energizedprotection/archive/ffccf253f07902c0f8cd92143b3c81b5debd7af5.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/energizedprotection@ffccf253f07902c0f8cd92143b3c81b5debd7af5/README.md"
     },
     {
       "id": "ccbins",
       "last_update": 1620669729000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@af8830def3aad3141ce9084c07014fea31b1969a/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/ccbins/zip/af8830def3aad3141ce9084c07014fea31b1969a",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ccbins/archive/af8830def3aad3141ce9084c07014fea31b1969a.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@af8830def3aad3141ce9084c07014fea31b1969a/README.md"
     },
     {
       "id": "magisk-frida",
       "last_update": 1620432044000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@c8d87a18d737d626defb96ddb1515da8afdc937b/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/magisk-frida/zip/c8d87a18d737d626defb96ddb1515da8afdc937b",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/magisk-frida/archive/c8d87a18d737d626defb96ddb1515da8afdc937b.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@c8d87a18d737d626defb96ddb1515da8afdc937b/README.md"
     },
     {
       "id": "riru-core",
       "last_update": 1620394690000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@c68497075ca1d23105e4b860f4297a510a1f183f/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/riru-core/zip/c68497075ca1d23105e4b860f4297a510a1f183f",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru-core/archive/c68497075ca1d23105e4b860f4297a510a1f183f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@c68497075ca1d23105e4b860f4297a510a1f183f/README.md"
     },
     {
       "id": "busybox-ndk",
       "last_update": 1620358415000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@4c0ac2005daeac40c0f3d42ad77ac572cdf3491c/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/busybox-ndk/zip/4c0ac2005daeac40c0f3d42ad77ac572cdf3491c",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/busybox-ndk/archive/4c0ac2005daeac40c0f3d42ad77ac572cdf3491c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@4c0ac2005daeac40c0f3d42ad77ac572cdf3491c/README.md"
     },
     {
       "id": "ssh",
       "last_update": 1619809239000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ssh@ba874b18ce9496a9d85a892bdcdb9ae83253e933/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/ssh/zip/ba874b18ce9496a9d85a892bdcdb9ae83253e933",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ssh/archive/ba874b18ce9496a9d85a892bdcdb9ae83253e933.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ssh@ba874b18ce9496a9d85a892bdcdb9ae83253e933/README.md"
     },
     {
       "id": "BluetoothLibraryPatcher",
       "last_update": 1619711863000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@91eb49097dacaf1f0a6776659dfdca3f228d4a0c/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/BluetoothLibraryPatcher/zip/91eb49097dacaf1f0a6776659dfdca3f228d4a0c",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/91eb49097dacaf1f0a6776659dfdca3f228d4a0c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@91eb49097dacaf1f0a6776659dfdca3f228d4a0c/README.md"
     },
     {
       "id": "benchkit",
       "last_update": 1618613114000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/benchkit/zip/7d8a521a0237f2af19d01916b853f1d2a427ba1b",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/benchkit/archive/7d8a521a0237f2af19d01916b853f1d2a427ba1b.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/README.md"
     },
     {
       "id": "ViPER4AndroidFX",
       "last_update": 1618188111000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@ec6ce312ec9c15a6d5d2229c86d14c9181292142/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/ViPER4Android-FX/zip/ec6ce312ec9c15a6d5d2229c86d14c9181292142",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ViPER4Android-FX/archive/ec6ce312ec9c15a6d5d2229c86d14c9181292142.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@ec6ce312ec9c15a6d5d2229c86d14c9181292142/README.md"
     },
     {
       "id": "quickstepswitcher",
       "last_update": 1617177330000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@e1ce972771bb3e554927401e3221b8b7dca07cb0/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/quickstepswitcher/zip/e1ce972771bb3e554927401e3221b8b7dca07cb0",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/quickstepswitcher/archive/e1ce972771bb3e554927401e3221b8b7dca07cb0.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@e1ce972771bb3e554927401e3221b8b7dca07cb0/README.md"
     },
     {
       "id": "nexusmedia",
       "last_update": 1617082759000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@41173629f891d3a54f1fba9cab74a62f94cb0362/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/nexusmedia/zip/41173629f891d3a54f1fba9cab74a62f94cb0362",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/nexusmedia/archive/41173629f891d3a54f1fba9cab74a62f94cb0362.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@41173629f891d3a54f1fba9cab74a62f94cb0362/README.md"
     },
     {
       "id": "mtd-ndk",
       "last_update": 1617082746000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@1501826700be818685ca46558bb55ff44921d8a2/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/mtd-ndk/zip/1501826700be818685ca46558bb55ff44921d8a2",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/mtd-ndk/archive/1501826700be818685ca46558bb55ff44921d8a2.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@1501826700be818685ca46558bb55ff44921d8a2/README.md"
     },
     {
       "id": "adreno-dev",
       "last_update": 1617082734000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@7ee65522e1a70a23786617ff819ea35c7a86cda4/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/adreno-dev/zip/7ee65522e1a70a23786617ff819ea35c7a86cda4",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/adreno-dev/archive/7ee65522e1a70a23786617ff819ea35c7a86cda4.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@7ee65522e1a70a23786617ff819ea35c7a86cda4/README.md"
     },
     {
       "id": "adb-ndk",
       "last_update": 1617082726000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/adb-ndk/zip/b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/adb-ndk/archive/b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07/README.md"
     },
     {
       "id": "riru_location_report_enabler",
       "last_update": 1616410697000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_location_report_enabler@3bbbd99177fcac2ab7f255086da7550eabe28d71/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/riru_location_report_enabler/zip/3bbbd99177fcac2ab7f255086da7550eabe28d71",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru_location_report_enabler/archive/3bbbd99177fcac2ab7f255086da7550eabe28d71.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_location_report_enabler@3bbbd99177fcac2ab7f255086da7550eabe28d71/README.md"
     },
     {
       "id": "riru-sui",
       "last_update": 1616410536000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@ac55f7cb6e7ecbbed7abba61e6477e32a620a06f/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/riru-sui/zip/ac55f7cb6e7ecbbed7abba61e6477e32a620a06f",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru-sui/archive/ac55f7cb6e7ecbbed7abba61e6477e32a620a06f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@ac55f7cb6e7ecbbed7abba61e6477e32a620a06f/README.md"
     },
     {
       "id": "Fdroid-Priv",
       "last_update": 1614997464000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@6a3cf234fe04a2a95bb3f838c724f2b2887e3add/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/Fdroid-Priv/zip/6a3cf234fe04a2a95bb3f838c724f2b2887e3add",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/Fdroid-Priv/archive/6a3cf234fe04a2a95bb3f838c724f2b2887e3add.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Fdroid-Priv@6a3cf234fe04a2a95bb3f838c724f2b2887e3add/README.md"
     },
     {
       "id": "riru_ifw_enhance",
       "last_update": 1614573040000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ifw_enhance@ad13b4ddf9166fbb830d10f69580b9c402d2e7ab/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/riru_ifw_enhance/zip/ad13b4ddf9166fbb830d10f69580b9c402d2e7ab",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru_ifw_enhance/archive/ad13b4ddf9166fbb830d10f69580b9c402d2e7ab.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ifw_enhance@ad13b4ddf9166fbb830d10f69580b9c402d2e7ab/README.md"
     },
     {
       "id": "acc",
       "last_update": 1614255760000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/acc/zip/d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/acc/archive/d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265/README.md"
     },
     {
       "id": "riru_edxposed",
       "last_update": 1613616737000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed@7293bf52ad17b0cdded2bc94027168481bdea55a/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/riru_edxposed/zip/7293bf52ad17b0cdded2bc94027168481bdea55a",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru_edxposed/archive/7293bf52ad17b0cdded2bc94027168481bdea55a.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_edxposed@7293bf52ad17b0cdded2bc94027168481bdea55a/README.md"
     },
     {
       "id": "WDAnimationcxair",
       "last_update": 1613281622000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/WDAnimationcxair@1543a802c05d1155881471acb8d92cad69ec4866/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/WDAnimationcxair/zip/1543a802c05d1155881471acb8d92cad69ec4866",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/WDAnimationcxair/archive/1543a802c05d1155881471acb8d92cad69ec4866.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/WDAnimationcxair@1543a802c05d1155881471acb8d92cad69ec4866/README.md"
     },
     {
       "id": "magisk-drm-disabler",
       "last_update": 1612778235000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7a4d2d6a76b52765c9656ae251084628ff13178e/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/magisk-drm-disabler/zip/7a4d2d6a76b52765c9656ae251084628ff13178e",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/magisk-drm-disabler/archive/7a4d2d6a76b52765c9656ae251084628ff13178e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-drm-disabler@7a4d2d6a76b52765c9656ae251084628ff13178e/README.md"
     },
     {
       "id": "Systemless_TZData",
       "last_update": 1612729412000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@a0ef44f4586b9055da16d64d2b8baee25ee8855f/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/Systemless_TZData/zip/a0ef44f4586b9055da16d64d2b8baee25ee8855f",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/Systemless_TZData/archive/a0ef44f4586b9055da16d64d2b8baee25ee8855f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Systemless_TZData@a0ef44f4586b9055da16d64d2b8baee25ee8855f/README.md"
     },
     {
       "id": "gvisualmod",
       "last_update": 1612675127000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@48cf48b1ac4d3e91f76af36d2a31320b45421f3f/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/G-VisualMod/zip/48cf48b1ac4d3e91f76af36d2a31320b45421f3f",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/G-VisualMod/archive/48cf48b1ac4d3e91f76af36d2a31320b45421f3f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/G-VisualMod@48cf48b1ac4d3e91f76af36d2a31320b45421f3f/README.md"
     },
     {
       "id": "noneDisplayCutout",
       "last_update": 1612255684000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/noneDisplayCutout@66a55724b69316a968d32da14c3b52886a6b1bc5/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/noneDisplayCutout/zip/66a55724b69316a968d32da14c3b52886a6b1bc5",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/noneDisplayCutout/archive/66a55724b69316a968d32da14c3b52886a6b1bc5.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/noneDisplayCutout@66a55724b69316a968d32da14c3b52886a6b1bc5/README.md"
     },
     {
       "id": "aria2c",
       "last_update": 1611655495000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aria2c@9de8660d134fe743fb28faba05a5a12885275bb1/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/aria2c/zip/9de8660d134fe743fb28faba05a5a12885275bb1",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/aria2c/archive/9de8660d134fe743fb28faba05a5a12885275bb1.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aria2c@9de8660d134fe743fb28faba05a5a12885275bb1/README.md"
     },
     {
       "id": "dnscrypt-proxy2",
       "last_update": 1611654815000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/dnscrypt-proxy2/zip/d22ee061bd384eef8d2b1450033f2435f25164ca",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/dnscrypt-proxy2/archive/d22ee061bd384eef8d2b1450033f2435f25164ca.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/dnscrypt-proxy2@d22ee061bd384eef8d2b1450033f2435f25164ca/README.md"
     },
     {
       "id": "com.piyushgarg.rclone",
       "last_update": 1610355930000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@c69eb3c2db9a67a141e1522676f6f7857383331a/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/com.piyushgarg.rclone/zip/c69eb3c2db9a67a141e1522676f6f7857383331a",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/c69eb3c2db9a67a141e1522676f6f7857383331a.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@c69eb3c2db9a67a141e1522676f6f7857383331a/README.md"
     },
     {
       "id": "airaudio",
       "last_update": 1609872875000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@7bfe09931384707314b292bd6b3eb1ac3059bdfc/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/airaudio/zip/7bfe09931384707314b292bd6b3eb1ac3059bdfc",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/airaudio/archive/7bfe09931384707314b292bd6b3eb1ac3059bdfc.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@7bfe09931384707314b292bd6b3eb1ac3059bdfc/README.md"
     },
     {
       "id": "ainur_narsil",
       "last_update": 1609497388000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_narsil@99dd6fe65b95acdd6a49f6bba5b5b7b68cd6f85d/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/ainur_narsil/zip/99dd6fe65b95acdd6a49f6bba5b5b7b68cd6f85d",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ainur_narsil/archive/99dd6fe65b95acdd6a49f6bba5b5b7b68cd6f85d.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_narsil@99dd6fe65b95acdd6a49f6bba5b5b7b68cd6f85d/README.md"
     },
     {
       "id": "liboemcryptodisabler",
       "last_update": 1608463908000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/liboemcryptodisabler/zip/05623efc7a44ec33044694e6ac772eb80c9ed24f",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/liboemcryptodisabler/archive/05623efc7a44ec33044694e6ac772eb80c9ed24f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/README.md"
     },
     {
       "id": "terminalmods",
       "last_update": 1608213468000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/terminalmods/zip/8275b010fabbe769903470876ec175ecbaae9666",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/terminalmods/archive/8275b010fabbe769903470876ec175ecbaae9666.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/README.md"
     },
     {
       "id": "acp",
       "last_update": 1605384655000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@62668db80dc228911d8814d209e0d5606f1fb175/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/acp/zip/62668db80dc228911d8814d209e0d5606f1fb175",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/acp/archive/62668db80dc228911d8814d209e0d5606f1fb175.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acp@62668db80dc228911d8814d209e0d5606f1fb175/README.md"
     },
     {
       "id": "wirelessFirmware",
       "last_update": 1604117671000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wirelessFirmware@602ffe0a7d2defcaf43550d754f659dc4554dacf/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/wirelessFirmware/zip/602ffe0a7d2defcaf43550d754f659dc4554dacf",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/wirelessFirmware/archive/602ffe0a7d2defcaf43550d754f659dc4554dacf.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wirelessFirmware@602ffe0a7d2defcaf43550d754f659dc4554dacf/README.md"
     },
     {
       "id": "ExSDCard",
       "last_update": 1603352462000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/ExSDCard/zip/db6c552e46158ba70a5784cc56af4be638cabc48",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ExSDCard/archive/db6c552e46158ba70a5784cc56af4be638cabc48.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ExSDCard@db6c552e46158ba70a5784cc56af4be638cabc48/README.md"
     },
     {
       "id": "GoogleDialerFramework",
       "last_update": 1602517342000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@db0756b7bb470ea9bc03461577d7a69c4565cfd7/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/GoogleDialerFramework/zip/db0756b7bb470ea9bc03461577d7a69c4565cfd7",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/GoogleDialerFramework/archive/db0756b7bb470ea9bc03461577d7a69c4565cfd7.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@db0756b7bb470ea9bc03461577d7a69c4565cfd7/README.md"
     },
     {
       "id": "v2ray",
       "last_update": 1602292845000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/v2ray@1a55755932c5dc3475d0ac986fb28c26d24aa642/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/v2ray/zip/1a55755932c5dc3475d0ac986fb28c26d24aa642",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/v2ray/archive/1a55755932c5dc3475d0ac986fb28c26d24aa642.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/v2ray@1a55755932c5dc3475d0ac986fb28c26d24aa642/README.md"
     },
     {
       "id": "Oxy-ify",
       "last_update": 1600714096000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Oxy-ify@022ce5fd9e5e9fa3f2a276f8540adc2e5b0ded5d/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/Oxy-ify/zip/022ce5fd9e5e9fa3f2a276f8540adc2e5b0ded5d",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/Oxy-ify/archive/022ce5fd9e5e9fa3f2a276f8540adc2e5b0ded5d.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Oxy-ify@022ce5fd9e5e9fa3f2a276f8540adc2e5b0ded5d/README.md"
     },
     {
       "id": "aml",
       "last_update": 1600200721000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aml@a135adc1c713219aa6e2014193e58f663a442105/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/aml/zip/a135adc1c713219aa6e2014193e58f663a442105",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/aml/archive/a135adc1c713219aa6e2014193e58f663a442105.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aml@a135adc1c713219aa6e2014193e58f663a442105/README.md"
     },
     {
       "id": "overlayfix",
       "last_update": 1599939890000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@34559cdf4d367f389e10c930f0b7b31833f3e396/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/overlayfix/zip/34559cdf4d367f389e10c930f0b7b31833f3e396",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/overlayfix/archive/34559cdf4d367f389e10c930f0b7b31833f3e396.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/overlayfix@34559cdf4d367f389e10c930f0b7b31833f3e396/README.md"
     },
     {
       "id": "wifi-bonding",
       "last_update": 1598456659000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding@5072c1fda550d3fa9d2b5bbc115f799466a1cc1b/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/wifi-bonding/zip/5072c1fda550d3fa9d2b5bbc115f799466a1cc1b",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/wifi-bonding/archive/5072c1fda550d3fa9d2b5bbc115f799466a1cc1b.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding@5072c1fda550d3fa9d2b5bbc115f799466a1cc1b/README.md"
     },
     {
       "id": "motoclockwidget",
       "last_update": 1594398059000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/motoclockwidget@246ff9c12a43de3fa0b6766a26cda1afd00dff38/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/motoclockwidget/zip/246ff9c12a43de3fa0b6766a26cda1afd00dff38",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/motoclockwidget/archive/246ff9c12a43de3fa0b6766a26cda1afd00dff38.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/motoclockwidget@246ff9c12a43de3fa0b6766a26cda1afd00dff38/README.md"
     },
     {
       "id": "HideGesBar",
       "last_update": 1592364980000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideGesBar@2ed3cf94aaba2970f51057715ec31c64e96b3001/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/HideGesBar/zip/2ed3cf94aaba2970f51057715ec31c64e96b3001",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/HideGesBar/archive/2ed3cf94aaba2970f51057715ec31c64e96b3001.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideGesBar@2ed3cf94aaba2970f51057715ec31c64e96b3001/README.md"
     },
     {
       "id": "ctenabler",
       "last_update": 1591010796000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ctenabler@7d8cf9fe9b9bcfdf7cd1be2d58e53807c0bedb92/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/ctenabler/zip/7d8cf9fe9b9bcfdf7cd1be2d58e53807c0bedb92",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ctenabler/archive/7d8cf9fe9b9bcfdf7cd1be2d58e53807c0bedb92.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ctenabler@7d8cf9fe9b9bcfdf7cd1be2d58e53807c0bedb92/README.md"
     },
     {
       "id": "aospill",
       "last_update": 1590870646000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aospill@164facc443bd9f5f9745819d744dc0d9b6ef645f/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/aospill/zip/164facc443bd9f5f9745819d744dc0d9b6ef645f",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/aospill/archive/164facc443bd9f5f9745819d744dc0d9b6ef645f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/aospill@164facc443bd9f5f9745819d744dc0d9b6ef645f/README.md"
     },
     {
       "id": "libsecure_storage",
       "last_update": 1589034549000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/libsecure_storage@cfa87726d4e64e4fd08f089aa107063761ac4cae/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/libsecure_storage/zip/cfa87726d4e64e4fd08f089aa107063761ac4cae",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/libsecure_storage/archive/cfa87726d4e64e4fd08f089aa107063761ac4cae.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/libsecure_storage@cfa87726d4e64e4fd08f089aa107063761ac4cae/README.md"
     },
     {
       "id": "oosbar",
       "last_update": 1588398581000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/oosbar@2da4b2a29de6c05002fb0391421a315e689fe68c/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/oosbar/zip/2da4b2a29de6c05002fb0391421a315e689fe68c",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/oosbar/archive/2da4b2a29de6c05002fb0391421a315e689fe68c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/oosbar@2da4b2a29de6c05002fb0391421a315e689fe68c/README.md"
     },
     {
       "id": "movecert",
       "last_update": 1588261098000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/movecert@ec2345a430bc6595535b80a4825092eab5c7b091/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/movecert/zip/ec2345a430bc6595535b80a4825092eab5c7b091",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/movecert/archive/ec2345a430bc6595535b80a4825092eab5c7b091.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/movecert@ec2345a430bc6595535b80a4825092eab5c7b091/README.md"
     },
     {
       "id": "wifi5ghzdisabler",
       "last_update": 1587717421000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi5ghzdisabler@f6315ca489c2dd06b6334a434b5ac6ae60aad810/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/wifi5ghzdisabler/zip/f6315ca489c2dd06b6334a434b5ac6ae60aad810",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/wifi5ghzdisabler/archive/f6315ca489c2dd06b6334a434b5ac6ae60aad810.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi5ghzdisabler@f6315ca489c2dd06b6334a434b5ac6ae60aad810/README.md"
     },
     {
       "id": "sonymusic",
       "last_update": 1587373770000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/sonymusic@d455eff47b30453ba963af44c1b5195d430093bd/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/sonymusic/zip/d455eff47b30453ba963af44c1b5195d430093bd",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/sonymusic/archive/d455eff47b30453ba963af44c1b5195d430093bd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/sonymusic@d455eff47b30453ba963af44c1b5195d430093bd/README.md"
     },
     {
       "id": "callrecorder-axet",
       "last_update": 1587032621000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-axet@1e9a7db24ec014857e1de4f240b26cd42c8c9955/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/callrecorder-axet/zip/1e9a7db24ec014857e1de4f240b26cd42c8c9955",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/callrecorder-axet/archive/1e9a7db24ec014857e1de4f240b26cd42c8c9955.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-axet@1e9a7db24ec014857e1de4f240b26cd42c8c9955/README.md"
     },
     {
       "id": "PIXELARITY",
       "last_update": 1585933115000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/PIXELARITY@2293d64c11e50182ac66cfba181436bdb4dbdc3e/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/PIXELARITY/zip/2293d64c11e50182ac66cfba181436bdb4dbdc3e",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/PIXELARITY/archive/2293d64c11e50182ac66cfba181436bdb4dbdc3e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/PIXELARITY@2293d64c11e50182ac66cfba181436bdb4dbdc3e/README.md"
     },
     {
       "id": "ARCore_enabler",
       "last_update": 1581871355000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ARCore_enabler@04337da385e25f3d6dbe1917324b4a1291185a54/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/ARCore_enabler/zip/04337da385e25f3d6dbe1917324b4a1291185a54",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ARCore_enabler/archive/04337da385e25f3d6dbe1917324b4a1291185a54.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ARCore_enabler@04337da385e25f3d6dbe1917324b4a1291185a54/README.md"
     },
     {
       "id": "tcpdump_static_aarch64",
       "last_update": 1581418007000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/tcpdump_static_aarch64@a6e32ad9b59d7cc430d6bb497480e44e9704e173/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/tcpdump_static_aarch64/zip/a6e32ad9b59d7cc430d6bb497480e44e9704e173",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/tcpdump_static_aarch64/archive/a6e32ad9b59d7cc430d6bb497480e44e9704e173.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/tcpdump_static_aarch64@a6e32ad9b59d7cc430d6bb497480e44e9704e173/README.md"
     },
     {
       "id": "xposed_dalvik",
       "last_update": 1580548677000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/xposed_dalvik@b15b3442bb33154a7f89767a536920460c0e22d6/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/xposed_dalvik/zip/b15b3442bb33154a7f89767a536920460c0e22d6",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/xposed_dalvik/archive/b15b3442bb33154a7f89767a536920460c0e22d6.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/xposed_dalvik@b15b3442bb33154a7f89767a536920460c0e22d6/README.md"
     },
     {
       "id": "sony-device-dummy",
       "last_update": 1579234586000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/sony-device-dummy@5b756f6fec2774695bafe73499b4578d31bae3cc/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/sony-device-dummy/zip/5b756f6fec2774695bafe73499b4578d31bae3cc",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/sony-device-dummy/archive/5b756f6fec2774695bafe73499b4578d31bae3cc.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/sony-device-dummy@5b756f6fec2774695bafe73499b4578d31bae3cc/README.md"
     },
     {
       "id": "terminal_debloater",
       "last_update": 1578134354000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminal_debloater@c2bfb3c66510052428733b06740c5e1e391619c0/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/terminal_debloater/zip/c2bfb3c66510052428733b06740c5e1e391619c0",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/terminal_debloater/archive/c2bfb3c66510052428733b06740c5e1e391619c0.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminal_debloater@c2bfb3c66510052428733b06740c5e1e391619c0/README.md"
     },
     {
       "id": "CloudflareDNS4Magisk-IPv6",
       "last_update": 1577918774000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6@8516fb41b1050577109ff3ae3a48976831b588a8/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/zip/8516fb41b1050577109ff3ae3a48976831b588a8",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/archive/8516fb41b1050577109ff3ae3a48976831b588a8.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6@8516fb41b1050577109ff3ae3a48976831b588a8/README.md"
     },
     {
       "id": "CloudflareDNS4Magisk",
       "last_update": 1577918537000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/CloudflareDNS4Magisk@bdcd605cc59849392e967280c87e93f6bfef5a96/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/CloudflareDNS4Magisk/zip/bdcd605cc59849392e967280c87e93f6bfef5a96",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/bdcd605cc59849392e967280c87e93f6bfef5a96.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/CloudflareDNS4Magisk@bdcd605cc59849392e967280c87e93f6bfef5a96/README.md"
     },
     {
       "id": "hidden_settings",
       "last_update": 1577599943000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/hidden_settings@715e537e17a5fde94293bca7cb9a0de736a2bda6/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/hidden_settings/zip/715e537e17a5fde94293bca7cb9a0de736a2bda6",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/hidden_settings/archive/715e537e17a5fde94293bca7cb9a0de736a2bda6.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/hidden_settings@715e537e17a5fde94293bca7cb9a0de736a2bda6/README.md"
     },
     {
       "id": "disable-screenshot-camera-sounds",
       "last_update": 1576219272000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/disable-screenshot-camera-sounds@5d10ffdb7f6598eb0848b8ab55a49fd012a52be0/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/disable-screenshot-camera-sounds/zip/5d10ffdb7f6598eb0848b8ab55a49fd012a52be0",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/disable-screenshot-camera-sounds/archive/5d10ffdb7f6598eb0848b8ab55a49fd012a52be0.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/disable-screenshot-camera-sounds@5d10ffdb7f6598eb0848b8ab55a49fd012a52be0/README.md"
     },
     {
       "id": "sap",
       "last_update": 1573497054000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/sap@68c00cd28da69c11c849ef6d5a106e6dd7b16f71/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/sap/zip/68c00cd28da69c11c849ef6d5a106e6dd7b16f71",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/sap/archive/68c00cd28da69c11c849ef6d5a106e6dd7b16f71.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/sap@68c00cd28da69c11c849ef6d5a106e6dd7b16f71/README.md"
     },
     {
       "id": "vold-posix",
       "last_update": 1573283495000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/vold-posix@d65a4b5729124b5ba260bcfa2ddfefaf07efb863/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/vold-posix/zip/d65a4b5729124b5ba260bcfa2ddfefaf07efb863",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/vold-posix/archive/d65a4b5729124b5ba260bcfa2ddfefaf07efb863.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/vold-posix@d65a4b5729124b5ba260bcfa2ddfefaf07efb863/README.md"
     },
     {
       "id": "adreno-630-gpu-driver",
       "last_update": 1572706444000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-630-gpu-driver@ac21c91ce21bf6c135ffe2bb69c7586e2d9e2dfb/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/adreno-630-gpu-driver/zip/ac21c91ce21bf6c135ffe2bb69c7586e2d9e2dfb",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/adreno-630-gpu-driver/archive/ac21c91ce21bf6c135ffe2bb69c7586e2d9e2dfb.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-630-gpu-driver@ac21c91ce21bf6c135ffe2bb69c7586e2d9e2dfb/README.md"
     },
     {
       "id": "clash_for_magisk",
       "last_update": 1572249623000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/clash_for_magisk@61e429c314308dd8b438a44108f10f5fe6cf8a3c/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/clash_for_magisk/zip/61e429c314308dd8b438a44108f10f5fe6cf8a3c",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/clash_for_magisk/archive/61e429c314308dd8b438a44108f10f5fe6cf8a3c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/clash_for_magisk@61e429c314308dd8b438a44108f10f5fe6cf8a3c/README.md"
     },
     {
       "id": "xmlpak",
       "last_update": 1571924501000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/xmlpak@4e73846a50a640f4fc502bb9071d5e5cd40718d1/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/xmlpak/zip/4e73846a50a640f4fc502bb9071d5e5cd40718d1",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/xmlpak/archive/4e73846a50a640f4fc502bb9071d5e5cd40718d1.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/xmlpak@4e73846a50a640f4fc502bb9071d5e5cd40718d1/README.md"
     },
     {
       "id": "terminal_systemizer",
       "last_update": 1571840288000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminal_systemizer@3144ec547a66f948d57e9e73fa765dc7f76f0deb/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/terminal_systemizer/zip/3144ec547a66f948d57e9e73fa765dc7f76f0deb",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/terminal_systemizer/archive/3144ec547a66f948d57e9e73fa765dc7f76f0deb.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminal_systemizer@3144ec547a66f948d57e9e73fa765dc7f76f0deb/README.md"
     },
     {
       "id": "Pix3lify",
       "last_update": 1570707773000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Pix3lify@e60bbc90477cf9fa268b9e35c82b4e69145c1292/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/Pix3lify/zip/e60bbc90477cf9fa268b9e35c82b4e69145c1292",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/Pix3lify/archive/e60bbc90477cf9fa268b9e35c82b4e69145c1292.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Pix3lify@e60bbc90477cf9fa268b9e35c82b4e69145c1292/README.md"
     },
     {
       "id": "IPControl",
       "last_update": 1569912326000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/IPControl@0934acc1362fe88fafbf58b79ef9705ccac8b2c4/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/IPControl/zip/0934acc1362fe88fafbf58b79ef9705ccac8b2c4",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/IPControl/archive/0934acc1362fe88fafbf58b79ef9705ccac8b2c4.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/IPControl@0934acc1362fe88fafbf58b79ef9705ccac8b2c4/README.md"
     },
     {
       "id": "ViPER4AndroidFX-Legacy",
       "last_update": 1565532645000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy@9241c9801e33505a1cc63b60c7e7f281c97dfc15/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/zip/9241c9801e33505a1cc63b60c7e7f281c97dfc15",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/archive/9241c9801e33505a1cc63b60c7e7f281c97dfc15.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy@9241c9801e33505a1cc63b60c7e7f281c97dfc15/README.md"
     },
     {
       "id": "ViPER4AndroidXHiFi",
       "last_update": 1565532193000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4AndroidXHiFi@8fd7726fc6c8be3d3040542dea86429d1564707c/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/ViPER4AndroidXHiFi/zip/8fd7726fc6c8be3d3040542dea86429d1564707c",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ViPER4AndroidXHiFi/archive/8fd7726fc6c8be3d3040542dea86429d1564707c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4AndroidXHiFi@8fd7726fc6c8be3d3040542dea86429d1564707c/README.md"
     },
     {
       "id": "zsh_arm64",
       "last_update": 1565287472000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zsh_arm64@ffbb5fbf9aa59e6a5c146d960e4e60082d7afb37/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/zsh_arm64/zip/ffbb5fbf9aa59e6a5c146d960e4e60082d7afb37",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/zsh_arm64/archive/ffbb5fbf9aa59e6a5c146d960e4e60082d7afb37.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zsh_arm64@ffbb5fbf9aa59e6a5c146d960e4e60082d7afb37/README.md"
     },
     {
       "id": "KaliNethunter",
       "last_update": 1565052950000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/KaliNethunter@c9248fce11d35fad0faffce0bbd6c86ad87a54ac/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/KaliNethunter/zip/c9248fce11d35fad0faffce0bbd6c86ad87a54ac",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/KaliNethunter/archive/c9248fce11d35fad0faffce0bbd6c86ad87a54ac.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/KaliNethunter@c9248fce11d35fad0faffce0bbd6c86ad87a54ac/README.md"
     },
     {
       "id": "miracast-enabler",
       "last_update": 1563509191000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miracast-enabler@a259f35c7c033c3dcd7254d9e5b29d141afa70d1/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/miracast-enabler/zip/a259f35c7c033c3dcd7254d9e5b29d141afa70d1",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/miracast-enabler/archive/a259f35c7c033c3dcd7254d9e5b29d141afa70d1.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/miracast-enabler@a259f35c7c033c3dcd7254d9e5b29d141afa70d1/README.md"
     },
     {
       "id": "AppOpsPlugin",
       "last_update": 1563144810000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/AppOpsPlugin@64344cdb707d4df5369e73320a8311fbec67760c/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/AppOpsPlugin/zip/64344cdb707d4df5369e73320a8311fbec67760c",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/AppOpsPlugin/archive/64344cdb707d4df5369e73320a8311fbec67760c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/AppOpsPlugin@64344cdb707d4df5369e73320a8311fbec67760c/README.md"
     },
     {
       "id": "OneUISounds",
       "last_update": 1563026586000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneUISounds@35279951c3b02e49b500234ee6ac4b23a9f06a0f/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/OneUISounds/zip/35279951c3b02e49b500234ee6ac4b23a9f06a0f",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/OneUISounds/archive/35279951c3b02e49b500234ee6ac4b23a9f06a0f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneUISounds@35279951c3b02e49b500234ee6ac4b23a9f06a0f/README.md"
     },
     {
       "id": "djs",
       "last_update": 1561978055000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@a98c64eb08762c933a42cc76abf91634d6a64f49/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/djs/zip/a98c64eb08762c933a42cc76abf91634d6a64f49",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/djs/archive/a98c64eb08762c933a42cc76abf91634d6a64f49.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@a98c64eb08762c933a42cc76abf91634d6a64f49/README.md"
     },
     {
       "id": "kfmark",
       "last_update": 1561546153000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/kfmark@d346823d97ca3b287dcaaab05f2024f3101225fd/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/kfmark/zip/d346823d97ca3b287dcaaab05f2024f3101225fd",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/kfmark/archive/d346823d97ca3b287dcaaab05f2024f3101225fd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/kfmark@d346823d97ca3b287dcaaab05f2024f3101225fd/README.md"
     },
     {
       "id": "PS4RE",
       "last_update": 1560369370000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/PS4RE@d7fc0d9e3eeb01b237593d26cc6cfd607cec95ef/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/PS4RE/zip/d7fc0d9e3eeb01b237593d26cc6cfd607cec95ef",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/PS4RE/archive/d7fc0d9e3eeb01b237593d26cc6cfd607cec95ef.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/PS4RE@d7fc0d9e3eeb01b237593d26cc6cfd607cec95ef/README.md"
     },
     {
       "id": "twrp-helper",
       "last_update": 1560196409000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-helper@7b0cb12e4c4b190a8943d5055e6c7ab734890ff8/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/twrp-helper/zip/7b0cb12e4c4b190a8943d5055e6c7ab734890ff8",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/twrp-helper/archive/7b0cb12e4c4b190a8943d5055e6c7ab734890ff8.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-helper@7b0cb12e4c4b190a8943d5055e6c7ab734890ff8/README.md"
     },
     {
       "id": "disable-mdnsd",
       "last_update": 1559311937000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/disable-mdnsd@4a76dcb2bb687852109e6768c44cdd0806189371/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/disable-mdnsd/zip/4a76dcb2bb687852109e6768c44cdd0806189371",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/disable-mdnsd/archive/4a76dcb2bb687852109e6768c44cdd0806189371.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/disable-mdnsd@4a76dcb2bb687852109e6768c44cdd0806189371/README.md"
     },
     {
       "id": "HEVCEnabler",
       "last_update": 1558593884000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HEVCEnabler@f6a3fa6bbd77af140ba49aa20763efea30a5e9f6/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/HEVCEnabler/zip/f6a3fa6bbd77af140ba49aa20763efea30a5e9f6",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/HEVCEnabler/archive/f6a3fa6bbd77af140ba49aa20763efea30a5e9f6.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HEVCEnabler@f6a3fa6bbd77af140ba49aa20763efea30a5e9f6/README.md"
     },
     {
       "id": "foxy-boot",
       "last_update": 1558352762000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/foxy-boot@891054661c9b4475347a7e399ab1841b9242ed23/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/foxy-boot/zip/891054661c9b4475347a7e399ab1841b9242ed23",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/foxy-boot/archive/891054661c9b4475347a7e399ab1841b9242ed23.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/foxy-boot@891054661c9b4475347a7e399ab1841b9242ed23/README.md"
     },
     {
       "id": "com.catchingnow.icebox",
       "last_update": 1557655646000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.catchingnow.icebox@cdeb14777846c5015398fe85971dac411b52a04e/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/com.catchingnow.icebox/zip/cdeb14777846c5015398fe85971dac411b52a04e",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/com.catchingnow.icebox/archive/cdeb14777846c5015398fe85971dac411b52a04e.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.catchingnow.icebox@cdeb14777846c5015398fe85971dac411b52a04e/README.md"
     },
     {
       "id": "xposed",
       "last_update": 1556686471000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/xposed@11e46aadc516b1227e1b3f98a0785b7eecb88c26/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/xposed/zip/11e46aadc516b1227e1b3f98a0785b7eecb88c26",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/xposed/archive/11e46aadc516b1227e1b3f98a0785b7eecb88c26.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/xposed@11e46aadc516b1227e1b3f98a0785b7eecb88c26/README.md"
     },
     {
       "id": "logcat",
       "last_update": 1556251162000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/logcat@294165640a286475c9bc0f0a34bd641da606cbd5/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/logcat/zip/294165640a286475c9bc0f0a34bd641da606cbd5",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/logcat/archive/294165640a286475c9bc0f0a34bd641da606cbd5.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/logcat@294165640a286475c9bc0f0a34bd641da606cbd5/README.md"
     },
     {
       "id": "apt-x",
       "last_update": 1554995684000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/apt-x@26597124bdfacbc7b43320cee892f88030fc88cf/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/apt-x/zip/26597124bdfacbc7b43320cee892f88030fc88cf",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/apt-x/archive/26597124bdfacbc7b43320cee892f88030fc88cf.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/apt-x@26597124bdfacbc7b43320cee892f88030fc88cf/README.md"
     },
     {
       "id": "mm",
       "last_update": 1554374616000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mm@569d2ef21a0dccfb0c827af1dea76adfbf8aab6c/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/mm/zip/569d2ef21a0dccfb0c827af1dea76adfbf8aab6c",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/mm/archive/569d2ef21a0dccfb0c827af1dea76adfbf8aab6c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mm@569d2ef21a0dccfb0c827af1dea76adfbf8aab6c/README.md"
     },
     {
       "id": "ASUS-Style-Suite",
       "last_update": 1554326657000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ASUS-Style-Suite@5ea9cabd62446efa34fda2ad9b5be6a0cb5f1306/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/ASUS-Style-Suite/zip/5ea9cabd62446efa34fda2ad9b5be6a0cb5f1306",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ASUS-Style-Suite/archive/5ea9cabd62446efa34fda2ad9b5be6a0cb5f1306.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ASUS-Style-Suite@5ea9cabd62446efa34fda2ad9b5be6a0cb5f1306/README.md"
     },
     {
       "id": "sqlite3",
       "last_update": 1553868882000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/sqlite3@585959ddf14e8e3b24cd4d4b0cf0ddfb62999c5c/module.prop",
-      "zip_url": "https://gh-codeload.qqcn.xyz/Magisk-Modules-Repo/sqlite3/zip/585959ddf14e8e3b24cd4d4b0cf0ddfb62999c5c",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/sqlite3/archive/585959ddf14e8e3b24cd4d4b0cf0ddfb62999c5c.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/sqlite3@585959ddf14e8e3b24cd4d4b0cf0ddfb62999c5c/README.md"
     }
   ]
