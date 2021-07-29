@@ -1,13 +1,34 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1627332066000,
+  "last_update": 1627516802000,
   "modules": [
     {
+      "id": "BluetoothLibraryPatcher",
+      "last_update": 1627516802000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@afa5f9016e9ea29fb142a018925e6aaaed76af4a/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/afa5f9016e9ea29fb142a018925e6aaaed76af4a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@afa5f9016e9ea29fb142a018925e6aaaed76af4a/README.md"
+    },
+    {
+      "id": "acc",
+      "last_update": 1627499124000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@61a0768d7e91927e2c7c4de3bc35e4c1a34fa873/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/acc/archive/61a0768d7e91927e2c7c4de3bc35e4c1a34fa873.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@61a0768d7e91927e2c7c4de3bc35e4c1a34fa873/README.md"
+    },
+    {
       "id": "magisk-frida",
-      "last_update": 1627332066000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@74d4b8744caa5c1c942b8b4c375f3363786b4637/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/magisk-frida/archive/74d4b8744caa5c1c942b8b4c375f3363786b4637.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@74d4b8744caa5c1c942b8b4c375f3363786b4637/README.md"
+      "last_update": 1627483604000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@eb23321191aab9f612adaec80c84854c9a79d7e3/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/magisk-frida/archive/eb23321191aab9f612adaec80c84854c9a79d7e3.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@eb23321191aab9f612adaec80c84854c9a79d7e3/README.md"
+    },
+    {
+      "id": "djs",
+      "last_update": 1627482500000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@134eb98254d588e9e788d18ad213e7300cc624f7/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/djs/archive/134eb98254d588e9e788d18ad213e7300cc624f7.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@134eb98254d588e9e788d18ad213e7300cc624f7/README.md"
     },
     {
       "id": "Fdroid-Priv",
@@ -64,13 +85,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/nexusmedia/archive/8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb/README.md"
-    },
-    {
-      "id": "BluetoothLibraryPatcher",
-      "last_update": 1625326401000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@0859c15997f445f783fd785a40502b06fcf697f7/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/0859c15997f445f783fd785a40502b06fcf697f7.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@0859c15997f445f783fd785a40502b06fcf697f7/README.md"
     },
     {
       "id": "zipsigner",
@@ -253,13 +267,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ifw_enhance@ad13b4ddf9166fbb830d10f69580b9c402d2e7ab/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru_ifw_enhance/archive/ad13b4ddf9166fbb830d10f69580b9c402d2e7ab.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_ifw_enhance@ad13b4ddf9166fbb830d10f69580b9c402d2e7ab/README.md"
-    },
-    {
-      "id": "acc",
-      "last_update": 1614255760000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/acc/archive/d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@d0a9a31ca0b2524ad6c69e8b4b78e3fd227ed265/README.md"
     },
     {
       "id": "riru_edxposed",
@@ -659,13 +666,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneUISounds@35279951c3b02e49b500234ee6ac4b23a9f06a0f/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/OneUISounds/archive/35279951c3b02e49b500234ee6ac4b23a9f06a0f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/OneUISounds@35279951c3b02e49b500234ee6ac4b23a9f06a0f/README.md"
-    },
-    {
-      "id": "djs",
-      "last_update": 1561978055000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@a98c64eb08762c933a42cc76abf91634d6a64f49/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/djs/archive/a98c64eb08762c933a42cc76abf91634d6a64f49.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@a98c64eb08762c933a42cc76abf91634d6a64f49/README.md"
     },
     {
       "id": "kfmark",
