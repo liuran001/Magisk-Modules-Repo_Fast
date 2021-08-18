@@ -1,7 +1,21 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629228388000,
+  "last_update": 1629275642000,
   "modules": [
+    {
+      "id": "microg_installer",
+      "last_update": 1629275642000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@79e3436d590fc2bd26171fbeda99e9519e9dc868/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/microG_installer/archive/79e3436d590fc2bd26171fbeda99e9519e9dc868.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@79e3436d590fc2bd26171fbeda99e9519e9dc868/README.md"
+    },
+    {
+      "id": "riru-core",
+      "last_update": 1629266949000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@841bef3c75f338d6ccf5303a08f71f2cf869e8d4/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru-core/archive/841bef3c75f338d6ccf5303a08f71f2cf869e8d4.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@841bef3c75f338d6ccf5303a08f71f2cf869e8d4/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1629228388000,
@@ -22,13 +36,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@bd437aef4373f0b98ee603b715bb048da6cfd609/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/bd437aef4373f0b98ee603b715bb048da6cfd609.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@bd437aef4373f0b98ee603b715bb048da6cfd609/README.md"
-    },
-    {
-      "id": "riru-core",
-      "last_update": 1629099012000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@068c46bab02fdb9bb9e0cec7d15c7aa4d360dd17/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru-core/archive/068c46bab02fdb9bb9e0cec7d15c7aa4d360dd17.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@068c46bab02fdb9bb9e0cec7d15c7aa4d360dd17/README.md"
     },
     {
       "id": "HideNavBar",
@@ -85,13 +92,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@66941b5397276b9f665af2677268ca366d465a50/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru_storage_redirect/archive/66941b5397276b9f665af2677268ca366d465a50.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_storage_redirect@66941b5397276b9f665af2677268ca366d465a50/README.md"
-    },
-    {
-      "id": "microg_installer",
-      "last_update": 1625862016000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@e4bab7a065ab2225320a765c9dcad885e9a3544b/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/microG_installer/archive/e4bab7a065ab2225320a765c9dcad885e9a3544b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/microG_installer@e4bab7a065ab2225320a765c9dcad885e9a3544b/README.md"
     },
     {
       "id": "Detach",
