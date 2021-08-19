@@ -1,20 +1,27 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1629308490000,
+  "last_update": 1629362512000,
   "modules": [
     {
-      "id": "fontrevival",
-      "last_update": 1629308490000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@7bbec3c25edbe83e3e0f4860d080d75a34619a7b/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/fontrevival/archive/7bbec3c25edbe83e3e0f4860d080d75a34619a7b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@7bbec3c25edbe83e3e0f4860d080d75a34619a7b/README.md"
+      "id": "terminalmods",
+      "last_update": 1629362512000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@fcd0c770c0e9cf383aefa24bece47bd3acf6a6d3/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/terminalmods/archive/fcd0c770c0e9cf383aefa24bece47bd3acf6a6d3.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@fcd0c770c0e9cf383aefa24bece47bd3acf6a6d3/README.md"
     },
     {
       "id": "bromitewebview",
-      "last_update": 1629305500000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@463568c3b4d7df94bf82c18a338d31b8074c1a3f/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/bromitewebview/archive/463568c3b4d7df94bf82c18a338d31b8074c1a3f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@463568c3b4d7df94bf82c18a338d31b8074c1a3f/README.md"
+      "last_update": 1629349678000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@d6cfa321462d51b9d9da122266afb20f9e7ec34c/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/bromitewebview/archive/d6cfa321462d51b9d9da122266afb20f9e7ec34c.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@d6cfa321462d51b9d9da122266afb20f9e7ec34c/README.md"
+    },
+    {
+      "id": "fontrevival",
+      "last_update": 1629349629000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@6b952a3897f17445ded1e35222da47c12351cee2/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/fontrevival/archive/6b952a3897f17445ded1e35222da47c12351cee2.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@6b952a3897f17445ded1e35222da47c12351cee2/README.md"
     },
     {
       "id": "BluetoothLibraryPatcher",
@@ -351,13 +358,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/liboemcryptodisabler/archive/05623efc7a44ec33044694e6ac772eb80c9ed24f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/liboemcryptodisabler@05623efc7a44ec33044694e6ac772eb80c9ed24f/README.md"
-    },
-    {
-      "id": "terminalmods",
-      "last_update": 1608213468000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/terminalmods/archive/8275b010fabbe769903470876ec175ecbaae9666.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/terminalmods@8275b010fabbe769903470876ec175ecbaae9666/README.md"
     },
     {
       "id": "acp",
