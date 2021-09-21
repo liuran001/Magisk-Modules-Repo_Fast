@@ -1,7 +1,35 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1632131550000,
+  "last_update": 1632174515000,
   "modules": [
+    {
+      "id": "MagiskHidePropsConf",
+      "last_update": 1632174515000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@e7feda23987a8d8ec19c6bda4a6f47cc30162eff/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/MagiskHidePropsConf/archive/e7feda23987a8d8ec19c6bda4a6f47cc30162eff.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@e7feda23987a8d8ec19c6bda4a6f47cc30162eff/README.md"
+    },
+    {
+      "id": "fontrevival",
+      "last_update": 1632160536000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@5cf3d3bb2385dc7032da8a1eea35ed449d888f90/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/fontrevival/archive/5cf3d3bb2385dc7032da8a1eea35ed449d888f90.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@5cf3d3bb2385dc7032da8a1eea35ed449d888f90/README.md"
+    },
+    {
+      "id": "bromitewebview",
+      "last_update": 1632160424000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@368ddba82e5313696801cdc40f92cdc9b3c35b05/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/bromitewebview/archive/368ddba82e5313696801cdc40f92cdc9b3c35b05.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@368ddba82e5313696801cdc40f92cdc9b3c35b05/README.md"
+    },
+    {
+      "id": "riru-sui",
+      "last_update": 1632141165000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@38753eb2e482fed875440ac328ed32ae5ccb6a3a/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru-sui/archive/38753eb2e482fed875440ac328ed32ae5ccb6a3a.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@38753eb2e482fed875440ac328ed32ae5ccb6a3a/README.md"
+    },
     {
       "id": "acc",
       "last_update": 1632131550000,
@@ -31,13 +59,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@0ba5a5cb2afa49b971580b160c48c41cd09a0088/README.md"
     },
     {
-      "id": "riru-sui",
-      "last_update": 1631543175000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@1eabcdd2a64d6ced4e44c48c482f3b7b60723488/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru-sui/archive/1eabcdd2a64d6ced4e44c48c482f3b7b60723488.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@1eabcdd2a64d6ced4e44c48c482f3b7b60723488/README.md"
-    },
-    {
       "id": "ainur_narsil",
       "last_update": 1631218119000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_narsil@1980c992deaf81b76f899fa925a02d933a77c948/module.prop",
@@ -64,13 +85,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@c2902e54150ea424255c039139e66d37bad6c9ae/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/active_edge_system_mod/archive/c2902e54150ea424255c039139e66d37bad6c9ae.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/active_edge_system_mod@c2902e54150ea424255c039139e66d37bad6c9ae/README.md"
-    },
-    {
-      "id": "MagiskHidePropsConf",
-      "last_update": 1630948777000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@b022128ffd03722bbfe6a393fad97b999953f17b/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/MagiskHidePropsConf/archive/b022128ffd03722bbfe6a393fad97b999953f17b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@b022128ffd03722bbfe6a393fad97b999953f17b/README.md"
     },
     {
       "id": "com.piyushgarg.rclone",
@@ -106,20 +120,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@73131b41f08e7fc9e95ab623ab29bb3ad5c23439/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru_lsposed/archive/73131b41f08e7fc9e95ab623ab29bb3ad5c23439.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@73131b41f08e7fc9e95ab623ab29bb3ad5c23439/README.md"
-    },
-    {
-      "id": "fontrevival",
-      "last_update": 1630556908000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3e9d3d1a248c30f10aa581ff3698c460c83a2d7a/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/fontrevival/archive/3e9d3d1a248c30f10aa581ff3698c460c83a2d7a.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@3e9d3d1a248c30f10aa581ff3698c460c83a2d7a/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1630556826000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@ce04afbb9b84a18210bd1aeba343cd53804d7287/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/bromitewebview/archive/ce04afbb9b84a18210bd1aeba343cd53804d7287.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@ce04afbb9b84a18210bd1aeba343cd53804d7287/README.md"
     },
     {
       "id": "riru_storage_redirect",
