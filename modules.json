@@ -1,7 +1,28 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635105924000,
+  "last_update": 1635144225000,
   "modules": [
+    {
+      "id": "MagiskHidePropsConf",
+      "last_update": 1635144225000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@fa1ec79ddff4f2df82a3510519987ef77b0fe1cb/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/MagiskHidePropsConf/archive/fa1ec79ddff4f2df82a3510519987ef77b0fe1cb.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@fa1ec79ddff4f2df82a3510519987ef77b0fe1cb/README.md"
+    },
+    {
+      "id": "fontrevival",
+      "last_update": 1635135886000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@2b6cbd6586ae3be778a43ca8554d9f8430761411/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/fontrevival/archive/2b6cbd6586ae3be778a43ca8554d9f8430761411.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@2b6cbd6586ae3be778a43ca8554d9f8430761411/README.md"
+    },
+    {
+      "id": "bromitewebview",
+      "last_update": 1635130154000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@9c4e68e60474b4ab35ba0c1a23734421fe929392/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/bromitewebview/archive/9c4e68e60474b4ab35ba0c1a23734421fe929392.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@9c4e68e60474b4ab35ba0c1a23734421fe929392/README.md"
+    },
     {
       "id": "aospill",
       "last_update": 1635105924000,
@@ -22,13 +43,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@54c944d84572c8ce14fc4500d7f93b4865e01e6f/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/magisk-frida/archive/54c944d84572c8ce14fc4500d7f93b4865e01e6f.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/magisk-frida@54c944d84572c8ce14fc4500d7f93b4865e01e6f/README.md"
-    },
-    {
-      "id": "MagiskHidePropsConf",
-      "last_update": 1634747209000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@f456d958ba664bc6811e5bd3b9d0b1a6fcbec70e/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/MagiskHidePropsConf/archive/f456d958ba664bc6811e5bd3b9d0b1a6fcbec70e.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@f456d958ba664bc6811e5bd3b9d0b1a6fcbec70e/README.md"
     },
     {
       "id": "riru_lsposed",
@@ -57,20 +71,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@ac1a04b2cb3f19331aeb58b1ae92560036dbdcd8/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru-core/archive/ac1a04b2cb3f19331aeb58b1ae92560036dbdcd8.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@ac1a04b2cb3f19331aeb58b1ae92560036dbdcd8/README.md"
-    },
-    {
-      "id": "fontrevival",
-      "last_update": 1633643396000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@4cfaf9fd0e1dbc56273fa9767476f344ca61f61c/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/fontrevival/archive/4cfaf9fd0e1dbc56273fa9767476f344ca61f61c.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/fontrevival@4cfaf9fd0e1dbc56273fa9767476f344ca61f61c/README.md"
-    },
-    {
-      "id": "bromitewebview",
-      "last_update": 1633642952000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@a8eaa112d424a7f8198f4e61f0770441efcd9288/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/bromitewebview/archive/a8eaa112d424a7f8198f4e61f0770441efcd9288.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/bromitewebview@a8eaa112d424a7f8198f4e61f0770441efcd9288/README.md"
     },
     {
       "id": "nano-ndk",
