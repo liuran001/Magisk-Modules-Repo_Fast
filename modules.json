@@ -1,7 +1,28 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635503401000,
+  "last_update": 1635615650000,
   "modules": [
+    {
+      "id": "acc",
+      "last_update": 1635615650000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@5ad7b4329dc52e9f21eabe1bd672b1b25b45f4e1/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/acc/archive/5ad7b4329dc52e9f21eabe1bd672b1b25b45f4e1.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@5ad7b4329dc52e9f21eabe1bd672b1b25b45f4e1/README.md"
+    },
+    {
+      "id": "djs",
+      "last_update": 1635615246000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@84956ba4b5d6877ccd3fc9beeca6b1b9be166fe3/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/djs/archive/84956ba4b5d6877ccd3fc9beeca6b1b9be166fe3.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@84956ba4b5d6877ccd3fc9beeca6b1b9be166fe3/README.md"
+    },
+    {
+      "id": "quickstepswitcher",
+      "last_update": 1635597762000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@e54c4b05deacb39c2a9a914263acc447c854337e/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/quickstepswitcher/archive/e54c4b05deacb39c2a9a914263acc447c854337e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@e54c4b05deacb39c2a9a914263acc447c854337e/README.md"
+    },
     {
       "id": "wifi5ghzdisabler",
       "last_update": 1635503401000,
@@ -122,13 +143,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-sui@38753eb2e482fed875440ac328ed32ae5ccb6a3a/README.md"
     },
     {
-      "id": "acc",
-      "last_update": 1632131550000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@3eaf5d470c6160a5a0f1291b5b569c3dadd08ea0/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/acc/archive/3eaf5d470c6160a5a0f1291b5b569c3dadd08ea0.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/acc@3eaf5d470c6160a5a0f1291b5b569c3dadd08ea0/README.md"
-    },
-    {
       "id": "ainur_jamesdsp",
       "last_update": 1631911359000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@e900315c6ac2d3646bde0c8989dfebabad7bfa9a/module.prop",
@@ -169,13 +183,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@a0b0d7f4fa96c0f1d87a150c2f5e6576e83f4177/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/a0b0d7f4fa96c0f1d87a150c2f5e6576e83f4177.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/com.piyushgarg.rclone@a0b0d7f4fa96c0f1d87a150c2f5e6576e83f4177/README.md"
-    },
-    {
-      "id": "djs",
-      "last_update": 1630707304000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@e620084b38fc889989948c6884e3c502d9dd2678/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/djs/archive/e620084b38fc889989948c6884e3c502d9dd2678.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/djs@e620084b38fc889989948c6884e3c502d9dd2678/README.md"
     },
     {
       "id": "terminalmods",
@@ -274,13 +281,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/benchkit/archive/7d8a521a0237f2af19d01916b853f1d2a427ba1b.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/README.md"
-    },
-    {
-      "id": "quickstepswitcher",
-      "last_update": 1617177330000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@e1ce972771bb3e554927401e3221b8b7dca07cb0/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/quickstepswitcher/archive/e1ce972771bb3e554927401e3221b8b7dca07cb0.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/quickstepswitcher@e1ce972771bb3e554927401e3221b8b7dca07cb0/README.md"
     },
     {
       "id": "mtd-ndk",
