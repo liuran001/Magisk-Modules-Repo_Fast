@@ -1,7 +1,63 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1635615650000,
+  "last_update": 1635797336000,
   "modules": [
+    {
+      "id": "adb-ndk",
+      "last_update": 1635797336000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@881d2e69646baac463d08698c8fc8545f9a80224/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/adb-ndk/archive/881d2e69646baac463d08698c8fc8545f9a80224.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@881d2e69646baac463d08698c8fc8545f9a80224/README.md"
+    },
+    {
+      "id": "busybox-ndk",
+      "last_update": 1635797312000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@a7ce6008690caa065f0d81ae3217e7bf0e218b6e/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/busybox-ndk/archive/a7ce6008690caa065f0d81ae3217e7bf0e218b6e.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@a7ce6008690caa065f0d81ae3217e7bf0e218b6e/README.md"
+    },
+    {
+      "id": "twrp-keep",
+      "last_update": 1635797291000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@bf54ef57cca53908969a41089676693b302968da/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/twrp-keep/archive/bf54ef57cca53908969a41089676693b302968da.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@bf54ef57cca53908969a41089676693b302968da/README.md"
+    },
+    {
+      "id": "adreno-dev",
+      "last_update": 1635797265000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@68411e15b6f22b6f974d0dea93e3108450d4f854/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/adreno-dev/archive/68411e15b6f22b6f974d0dea93e3108450d4f854.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@68411e15b6f22b6f974d0dea93e3108450d4f854/README.md"
+    },
+    {
+      "id": "nano-ndk",
+      "last_update": 1635797237000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@0681105efc7f21256cec91b28796ac8aee42e979/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/nano-ndk/archive/0681105efc7f21256cec91b28796ac8aee42e979.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@0681105efc7f21256cec91b28796ac8aee42e979/README.md"
+    },
+    {
+      "id": "zipsigner",
+      "last_update": 1635797214000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@ca66ad3c46dc02d62642a759ae9b6934be4acc28/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/zipsigner/archive/ca66ad3c46dc02d62642a759ae9b6934be4acc28.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@ca66ad3c46dc02d62642a759ae9b6934be4acc28/README.md"
+    },
+    {
+      "id": "nexusmedia",
+      "last_update": 1635797191000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@1070b5b6cb88af84f1e8a24e4708fd305e973997/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/nexusmedia/archive/1070b5b6cb88af84f1e8a24e4708fd305e973997.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@1070b5b6cb88af84f1e8a24e4708fd305e973997/README.md"
+    },
+    {
+      "id": "mtd-ndk",
+      "last_update": 1635797159000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@709c3d5cebc84715ddc5c460b16926ac978d6013/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/mtd-ndk/archive/709c3d5cebc84715ddc5c460b16926ac978d6013.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@709c3d5cebc84715ddc5c460b16926ac978d6013/README.md"
+    },
     {
       "id": "acc",
       "last_update": 1635615650000,
@@ -108,25 +164,11 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru-core@ac1a04b2cb3f19331aeb58b1ae92560036dbdcd8/README.md"
     },
     {
-      "id": "nano-ndk",
-      "last_update": 1633535823000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@254ec1703d57b017bc43e9c22a6c8d5b7f55d567/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/nano-ndk/archive/254ec1703d57b017bc43e9c22a6c8d5b7f55d567.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nano-ndk@254ec1703d57b017bc43e9c22a6c8d5b7f55d567/README.md"
-    },
-    {
       "id": "airaudio",
       "last_update": 1633287965000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@93450fc497f38c9ea17239a0b1dcb93c639c1017/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/airaudio/archive/93450fc497f38c9ea17239a0b1dcb93c639c1017.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/airaudio@93450fc497f38c9ea17239a0b1dcb93c639c1017/README.md"
-    },
-    {
-      "id": "busybox-ndk",
-      "last_update": 1633226186000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@9ce90100293676e2eafd3d560c6fd3311f3c4a9b/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/busybox-ndk/archive/9ce90100293676e2eafd3d560c6fd3311f3c4a9b.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/busybox-ndk@9ce90100293676e2eafd3d560c6fd3311f3c4a9b/README.md"
     },
     {
       "id": "riru_storage_redirect",
@@ -206,20 +248,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/Detach@2902932f88011ff01201961216a57590b2898886/README.md"
     },
     {
-      "id": "nexusmedia",
-      "last_update": 1625467402000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/nexusmedia/archive/8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/nexusmedia@8ffd4bdf4e0d45bc56b5ee4815aa033e179f5eeb/README.md"
-    },
-    {
-      "id": "zipsigner",
-      "last_update": 1625285262000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/zipsigner/archive/fa62e2a0f756f8e5b09d85bba9e83def50c3db13.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/zipsigner@fa62e2a0f756f8e5b09d85bba9e83def50c3db13/README.md"
-    },
-    {
       "id": "callrecorder-skvalex",
       "last_update": 1624538156000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/callrecorder-skvalex@406e29db5b26f4154e61a47a98324b70bfbb39ed/module.prop",
@@ -239,13 +267,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@ca5c0bb3adcdee3b642387338d26e7e6e6819fa8/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/NfcScreenOff/archive/ca5c0bb3adcdee3b642387338d26e7e6e6819fa8.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/NfcScreenOff@ca5c0bb3adcdee3b642387338d26e7e6e6819fa8/README.md"
-    },
-    {
-      "id": "twrp-keep",
-      "last_update": 1622432190000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@ea511193ecb8e32fab835068f9c0b365ee3d2f58/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/twrp-keep/archive/ea511193ecb8e32fab835068f9c0b365ee3d2f58.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/twrp-keep@ea511193ecb8e32fab835068f9c0b365ee3d2f58/README.md"
     },
     {
       "id": "miui-10-sounds",
@@ -281,27 +302,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/benchkit/archive/7d8a521a0237f2af19d01916b853f1d2a427ba1b.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/benchkit@7d8a521a0237f2af19d01916b853f1d2a427ba1b/README.md"
-    },
-    {
-      "id": "mtd-ndk",
-      "last_update": 1617082746000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@1501826700be818685ca46558bb55ff44921d8a2/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/mtd-ndk/archive/1501826700be818685ca46558bb55ff44921d8a2.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/mtd-ndk@1501826700be818685ca46558bb55ff44921d8a2/README.md"
-    },
-    {
-      "id": "adreno-dev",
-      "last_update": 1617082734000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@7ee65522e1a70a23786617ff819ea35c7a86cda4/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/adreno-dev/archive/7ee65522e1a70a23786617ff819ea35c7a86cda4.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adreno-dev@7ee65522e1a70a23786617ff819ea35c7a86cda4/README.md"
-    },
-    {
-      "id": "adb-ndk",
-      "last_update": 1617082726000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/adb-ndk/archive/b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/adb-ndk@b1e21b1d6d1a05e3b3eb17c1f5dd27fa07931f07/README.md"
     },
     {
       "id": "riru_location_report_enabler",
