@@ -1,7 +1,21 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1636343500000,
+  "last_update": 1636456956000,
   "modules": [
+    {
+      "id": "MagiskHidePropsConf",
+      "last_update": 1636456956000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@b6f4b20a92908ae6a67d1fd4ab656f61ad197f26/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/MagiskHidePropsConf/archive/b6f4b20a92908ae6a67d1fd4ab656f61ad197f26.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@b6f4b20a92908ae6a67d1fd4ab656f61ad197f26/README.md"
+    },
+    {
+      "id": "riru_lsposed",
+      "last_update": 1636449116000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@94a4bd29b17f4b380ebf27d7268079f4fb32d4b0/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru_lsposed/archive/94a4bd29b17f4b380ebf27d7268079f4fb32d4b0.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@94a4bd29b17f4b380ebf27d7268079f4fb32d4b0/README.md"
+    },
     {
       "id": "magisk-frida",
       "last_update": 1636343500000,
@@ -94,13 +108,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi5ghzdisabler@f8ea8451c7c1c0bf1df4f222eb17ce4e0adf6144/README.md"
     },
     {
-      "id": "MagiskHidePropsConf",
-      "last_update": 1635492636000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@f56918d14534148affe5e2188e0edae4be19b2a6/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/MagiskHidePropsConf/archive/f56918d14534148affe5e2188e0edae4be19b2a6.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/MagiskHidePropsConf@f56918d14534148affe5e2188e0edae4be19b2a6/README.md"
-    },
-    {
       "id": "HideNavBar",
       "last_update": 1635221232000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/HideNavBar@3094198db45b1575dccf0de36f13775b5a66356f/module.prop",
@@ -141,13 +148,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@4bb8df38d195997a7914840917db861b04ea13dd/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/GoogleDialerFramework/archive/4bb8df38d195997a7914840917db861b04ea13dd.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/GoogleDialerFramework@4bb8df38d195997a7914840917db861b04ea13dd/README.md"
-    },
-    {
-      "id": "riru_lsposed",
-      "last_update": 1634376351000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@569e4a5e85623a586785091841f512eada4aa4ff/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/riru_lsposed/archive/569e4a5e85623a586785091841f512eada4aa4ff.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/riru_lsposed@569e4a5e85623a586785091841f512eada4aa4ff/README.md"
     },
     {
       "id": "active_edge_system_mod",
