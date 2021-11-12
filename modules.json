@@ -1,7 +1,21 @@
 {
   "name": "Magisk Modules Repo (Official)",
-  "last_update": 1636580988000,
+  "last_update": 1636716558000,
   "modules": [
+    {
+      "id": "BluetoothLibraryPatcher",
+      "last_update": 1636716558000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@170f34b7305fedd5c39a3565daac55085bad369f/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/170f34b7305fedd5c39a3565daac55085bad369f.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@170f34b7305fedd5c39a3565daac55085bad369f/README.md"
+    },
+    {
+      "id": "ccbins",
+      "last_update": 1636691391000,
+      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@f69d6370cddc6d6b9f58d0486900c28f23388c01/module.prop",
+      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ccbins/archive/f69d6370cddc6d6b9f58d0486900c28f23388c01.zip",
+      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@f69d6370cddc6d6b9f58d0486900c28f23388c01/README.md"
+    },
     {
       "id": "callrecorder-skvalex",
       "last_update": 1636580988000,
@@ -199,13 +213,6 @@
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_jamesdsp@e900315c6ac2d3646bde0c8989dfebabad7bfa9a/README.md"
     },
     {
-      "id": "BluetoothLibraryPatcher",
-      "last_update": 1631834014000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@f61c10000f9c2ffba0b37d455edcb0852736debb/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/f61c10000f9c2ffba0b37d455edcb0852736debb.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/BluetoothLibraryPatcher@f61c10000f9c2ffba0b37d455edcb0852736debb/README.md"
-    },
-    {
       "id": "ainur_narsil",
       "last_update": 1631218119000,
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ainur_narsil@1980c992deaf81b76f899fa925a02d933a77c948/module.prop",
@@ -218,13 +225,6 @@
       "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7/module.prop",
       "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ViPER4Android-FX/archive/a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7.zip",
       "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ViPER4Android-FX@a37b7e60aa6b2c7a9170cf11ba569fa72041a0b7/README.md"
-    },
-    {
-      "id": "ccbins",
-      "last_update": 1631208879000,
-      "prop_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@0124da0670e6bc1aeb027d4cab7cc47f3fc9523f/module.prop",
-      "zip_url": "https://github.qqcn.xyz/Magisk-Modules-Repo/ccbins/archive/0124da0670e6bc1aeb027d4cab7cc47f3fc9523f.zip",
-      "notes_url": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/ccbins@0124da0670e6bc1aeb027d4cab7cc47f3fc9523f/README.md"
     },
     {
       "id": "com.piyushgarg.rclone",
